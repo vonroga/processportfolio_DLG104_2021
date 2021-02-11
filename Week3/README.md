@@ -2,6 +2,8 @@
 
 Ryan Paranich | DGL104 | Winter 2021 | North Island College
 
+---
+
 ## 0301
 
 Google Maps is arguably the most popular maps app on iOS, Android, and even fringe platforms like Windows Phones. The app also functions as a PWA and works well on mobile devices. For the purpose of this exersise we will be looking at the Android and Google Chrome PWA versions of this app.
@@ -22,5 +24,3 @@ On the [Android Development Guides](https://developer.android.com/guide) we find
 With regard to the structure of this documentation we see that there are breadcrumbs at the top of the screen, as well as a quick-link anchor navigation aside to the left of the main content.
 
 Within the paragraph of text we see links to other documents with more in-depth information on sub-topics of this larger general topic, creating a sort of information hierarchy.
-
----

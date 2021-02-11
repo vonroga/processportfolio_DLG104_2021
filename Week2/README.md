@@ -2,10 +2,6 @@
 
 Ryan Paranich | DGL104 | Winter 2021 | North Island College
 
-## 0201
-
-> Consider the apps that you use regularly. Choose one app to asses based on the reading Usability Matters Ch. 2. Identify the values inherent to the app that might help to identify the target user base (a list is fine, but be descriptive). Briefly describe the target user base. Do your goals in using the app match those of the target user base?
-
 ---
 
 ## 0202
